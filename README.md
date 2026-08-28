@@ -1,2 +1,2 @@
 # Competitive-programming
-results of contests
+results of contests(info in branches)
